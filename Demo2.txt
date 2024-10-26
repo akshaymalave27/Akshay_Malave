@@ -1,0 +1,2 @@
+read only mode
+this is seconde txt demo file 
